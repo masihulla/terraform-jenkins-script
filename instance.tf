@@ -1,6 +1,6 @@
 provider "aws" {
-  access_key = "AKIAJUZ4VP7FILOZTBAQ"
-  secret_key = "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"
+  access_key = "From security of AWS IAM"
+  secret_key = "From security of AWS IAM"
   region = "us-east-2"
 }
 
